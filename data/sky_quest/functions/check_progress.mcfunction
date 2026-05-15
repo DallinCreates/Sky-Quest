@@ -82,3 +82,11 @@ function sky_quest:ach_cure_zombie_villager
 function sky_quest:ach_breed_two_villagers
 function sky_quest:ach_trade_with_villager
 function sky_quest:ach_create_iron_farm
+function sky_quest:ach_make_maxed_out_diamond_armor
+function sky_quest:ach_trade_with_librarian
+function sky_quest:ach_make_map_of_your_base
+function sky_quest:ach_make_lecturn
+function sky_quest:ach_make_paper
+function sky_quest:ach_make_fireworks
+function sky_quest:ach_have_firework_show
+function sky_quest:ach_automate_all_crop_farms
