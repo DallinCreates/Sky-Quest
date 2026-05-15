@@ -12,7 +12,7 @@ Status Key:
 
 1. Obtain Wood [X]
 2. Obtain a Sapling [X]
-3. Make a Crafting Table [ ]
+3. Make a Crafting Table [X]
 4. Craft a wooden Pick [ ]
 5. Grow a Tree [ ]
 6. Make a Tree Farm [ ]
