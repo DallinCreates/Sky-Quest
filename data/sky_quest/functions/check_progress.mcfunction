@@ -63,3 +63,13 @@ function sky_quest:ach_obtain_trident
 function sky_quest:ach_make_drown_farm
 function sky_quest:ach_upgrade_mob_farm
 function sky_quest:ach_make_lightning_rod
+function sky_quest:ach_create_roller_coaster
+function sky_quest:ach_get_name_tag
+function sky_quest:ach_create_fishing_area
+function sky_quest:ach_create_anvil
+function sky_quest:ach_get_mending_book
+function sky_quest:ach_spawn_squid
+function sky_quest:ach_display_map_on_wall
+function sky_quest:ach_make_brewing_stand
+function sky_quest:ach_get_tipped_arrow
+function sky_quest:ach_create_villager_trading_hall
