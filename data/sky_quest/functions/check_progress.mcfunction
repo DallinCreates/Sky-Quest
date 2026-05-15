@@ -73,3 +73,12 @@ function sky_quest:ach_display_map_on_wall
 function sky_quest:ach_make_brewing_stand
 function sky_quest:ach_get_tipped_arrow
 function sky_quest:ach_create_villager_trading_hall
+function sky_quest:ach_create_xp_farm
+function sky_quest:ach_create_aquarium
+function sky_quest:ach_obtain_golden_nuggets
+function sky_quest:ach_make_golden_ingot
+function sky_quest:ach_make_golden_apple
+function sky_quest:ach_cure_zombie_villager
+function sky_quest:ach_breed_two_villagers
+function sky_quest:ach_trade_with_villager
+function sky_quest:ach_create_iron_farm
