@@ -15,3 +15,8 @@ function sky_quest:ach_bone_meal_grass
 function sky_quest:ach_get_sheet_seeds
 function sky_quest:ach_chicken_farm
 function sky_quest:ach_grow_wheat
+function sky_quest:ach_make_wheat_farm
+function sky_quest:ach_bake_cake
+function sky_quest:ach_make_sheep_farm
+function sky_quest:ach_get_all_wool
+function sky_quest:ach_make_bed
