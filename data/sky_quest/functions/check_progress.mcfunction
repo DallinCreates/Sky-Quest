@@ -90,3 +90,14 @@ function sky_quest:ach_make_paper
 function sky_quest:ach_make_fireworks
 function sky_quest:ach_have_firework_show
 function sky_quest:ach_automate_all_crop_farms
+function sky_quest:ach_get_all_seeds
+function sky_quest:ach_create_pumpkin_melon_farm
+function sky_quest:ach_create_cocobean_farm
+function sky_quest:ach_bake_cookies
+function sky_quest:ach_create_abeetroot_farm
+function sky_quest:ach_create_beatroot_stew
+function sky_quest:ach_get_all_saplings
+function sky_quest:ach_trade_with_wandering_trader
+function sky_quest:ach_grow_mangrove_propagule
+function sky_quest:ach_get_six_stacks_of_dirt
+function sky_quest:ach_get_pointed_dripstone
