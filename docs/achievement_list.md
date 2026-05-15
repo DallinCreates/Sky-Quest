@@ -1,0 +1,123 @@
+1. Obtain Wood
+2. Obtain a Sapling
+3. Make a Crafting Table
+4. Craft a wooden Pick
+5. Grow a Tree
+6. Make a Tree Farm
+7. Obtain a Behive
+8. Make a Honey Block
+9. Get a Flower
+10. Bone Meal Grass
+11. Get Sheet Seeds
+12. Make a Chicken Farm
+13. Grow Wheat
+14. Make a wheat Farm
+15. Bake a Cake
+16. Make a Sheep Farm
+17. Get All colors of Wool
+18. Make a Bed
+19. Tame a Horse
+20. Create a Stable for your horse
+21. Create a shelter for all of your animal Farms
+22. Spawn an Animal
+23. Create a rabbit Farm
+24. Create Rabbit Stew
+25. Create a Pig Farm
+26. Build a Carrot Farm
+27. Make a Grassy Area
+28. Expand Grassy Area to Allow animals to spawn
+29. Expand your Island
+30. Find a Snow biome
+31. Make a Snow Golem
+32. Make a Snow Farm
+33. Create a Second Island
+34. Make a Torch
+35. Build a House
+36. Expand your House
+37. Make a Sorting System
+38. create an automatic Sorting System
+39. Make a Podum for your achievements
+40. Make your base into a Sky Twon
+41. Craft a Furnace
+42. Make a Cobblestone generator
+43. Obtain Cobblestone
+44. Upgrade your tools to Stone
+45. Fill a chunk with Cobblestone
+46. Make a mob Farm
+47. Kill a Mob
+48. Kill a Zombie
+49. Get all music Discs
+50. Get a mob head
+51. Get all the mob heads
+52. Obtain gold gear
+53. trap a Zombie Billager
+54. Spawn a witch
+55. Upgrade your tools to Iron
+56. Obtain an Iron ingot
+57. Obtain an empty bottle
+58. Make a Slime Farm
+59. Create a Cauldron
+60. Create a Second Source of Water
+61. Obtain a Trident
+62. Make a drown Farm
+63. Upgrad your mob farm
+64. Make a lightning rod
+65. Obtain Copper
+66. Create an XP Farm
+67. Create an Aquarium
+68. Obtain Golden Nuggets
+69. Make a Golden Ingot
+70. Make a golden Apple
+71. Cure a Zombie Villager
+72. Breed Two villagers
+73. Trader with a villager
+74. Create an Iron Farm
+75. Create a roller Coaster
+76. Get a Name Tag
+77. Create a Fishing Area
+78. Create an Anvil
+79. Get a mending Book
+80. Spawn a Squid
+81. Display your map on a wall
+82. Make a brewing stand
+83. Get a tipped arrow
+84. Create a villager trading hall
+85. Trade with the Armourer
+86. Get a full set of Diamond Armor
+87. Make a maxed out set of diamond armor
+88. Trade with the Librarian
+89. Make a map of your base
+90. Make a lecturn
+91. Make paper
+92. Make fireworks
+93. Have a firework show
+94. Automate all of your crop farms
+95. Create a sugarcane farm
+96. Get sugar cane
+97. Get all the seeds
+98. Create a pumpkin and Melon farm
+99. Create a cocobean farm
+100. Bake cookies
+101. Create abeetroot farm
+102. create beatroot stew
+103. get all the saplings
+104. trade with the wandering trader
+105. grow a mangrove propagule
+106. get six stacks of dirt
+107. get pointed dripstone
+108. create a seoncd source of lava
+109. create obsidian
+110. enter the nether 
+111. create a gold farm
+112. barter with piglins
+113. make a tnt cannon
+114. buy sand
+115. get nether bricks
+116. spawn a blaze
+117. make a brewing stand
+118. spawn a wither skeleton
+119. get a witherskeleton head
+120. kill the wither
+121. get a wither rose
+122. create a wither skeleton farm
+123. make a fully powered beacon
