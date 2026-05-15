@@ -49,3 +49,17 @@ function sky_quest:ach_upgrade_tools_to_stone
 function sky_quest:ach_fill_chunk_with_cobblestone
 function sky_quest:ach_make_mob_farm
 function sky_quest:ach_kill_mob
+function sky_quest:ach_get_all_mob_heads
+function sky_quest:ach_obtain_gold_gear
+function sky_quest:ach_trap_zombie_billager
+function sky_quest:ach_spawn_witch
+function sky_quest:ach_upgrade_tools_to_iron
+function sky_quest:ach_obtain_iron_ingot
+function sky_quest:ach_obtain_empty_bottle
+function sky_quest:ach_make_slime_farm
+function sky_quest:ach_create_cauldron
+function sky_quest:ach_create_second_source_of_water
+function sky_quest:ach_obtain_trident
+function sky_quest:ach_make_drown_farm
+function sky_quest:ach_upgrade_mob_farm
+function sky_quest:ach_make_lightning_rod
