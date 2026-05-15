@@ -39,3 +39,13 @@ function sky_quest:ach_make_torch
 function sky_quest:ach_build_house
 function sky_quest:ach_expand_house
 function sky_quest:ach_make_sorting_system
+function sky_quest:ach_automatic_sorting_system
+function sky_quest:ach_make_podium
+function sky_quest:ach_sky_town
+function sky_quest:ach_craft_furnace
+function sky_quest:ach_make_cobblestone_generator
+function sky_quest:ach_obtain_cobblestone
+function sky_quest:ach_upgrade_tools_to_stone
+function sky_quest:ach_fill_chunk_with_cobblestone
+function sky_quest:ach_make_mob_farm
+function sky_quest:ach_kill_mob
