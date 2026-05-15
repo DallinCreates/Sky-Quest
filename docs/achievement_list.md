@@ -10,8 +10,8 @@ Status Key:
 
 **Group 1: Basic Survival & Gathering**
 
-1. Obtain Wood [ ]
-2. Obtain a Sapling [ ]
+1. Obtain Wood [X]
+2. Obtain a Sapling [X]
 3. Make a Crafting Table [ ]
 4. Craft a wooden Pick [ ]
 5. Grow a Tree [ ]

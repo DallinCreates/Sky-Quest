@@ -3,3 +3,4 @@
 # Example:
 # function sky_quest:check_wood_obtain()
 # function sky_quest:check_sapling_obtain()
+function sky_quest:ach_obtain_sapling
