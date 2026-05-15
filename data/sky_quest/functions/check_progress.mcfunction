@@ -34,3 +34,8 @@ function sky_quest:ach_expand_island
 function sky_quest:ach_find_snow_biome
 function sky_quest:ach_make_snow_golem
 function sky_quest:ach_make_snow_farm
+function sky_quest:ach_create_second_island
+function sky_quest:ach_make_torch
+function sky_quest:ach_build_house
+function sky_quest:ach_expand_house
+function sky_quest:ach_make_sorting_system

@@ -45,11 +45,11 @@ Status Key:
 
 **Group 2: Advanced Building & Utility**
 
-33. Create a Second Island [ ]
-34. Make a Torch [ ]
-35. Build a House [ ]
-36. Expand your House [ ]
-37. Make a Sorting System [ ]
+33. Create a Second Island [X]
+34. Make a Torch [X]
+35. Build a House [X]
+36. Expand your House [X]
+37. Make a Sorting System [X]
 38. create an automatic Sorting System [ ]
 39. Make a Podum for your achievements [ ]
 40. Make your base into a Sky Twon [ ]
