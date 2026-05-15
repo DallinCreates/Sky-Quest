@@ -10,3 +10,8 @@ function sky_quest:ach_grow_tree
 function sky_quest:ach_tree_farm
 function sky_quest:ach_obtain_beehive
 function sky_quest:ach_make_honey_block
+function sky_quest:ach_get_flower
+function sky_quest:ach_bone_meal_grass
+function sky_quest:ach_get_sheet_seeds
+function sky_quest:ach_chicken_farm
+function sky_quest:ach_grow_wheat
