@@ -20,3 +20,13 @@ function sky_quest:ach_bake_cake
 function sky_quest:ach_make_sheep_farm
 function sky_quest:ach_get_all_wool
 function sky_quest:ach_make_bed
+function sky_quest:ach_tame_horse
+function sky_quest:ach_create_stable
+function sky_quest:ach_shelter_animal_farms
+function sky_quest:ach_spawn_animal
+function sky_quest:ach_create_rabbit_farm
+function sky_quest:ach_create_rabbit_stew
+function sky_quest:ach_create_pig_farm
+function sky_quest:ach_build_carrot_farm
+function sky_quest:ach_make_grassy_area
+function sky_quest:ach_expand_grassy_area
