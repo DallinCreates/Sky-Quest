@@ -30,3 +30,7 @@ function sky_quest:ach_create_pig_farm
 function sky_quest:ach_build_carrot_farm
 function sky_quest:ach_make_grassy_area
 function sky_quest:ach_expand_grassy_area
+function sky_quest:ach_expand_island
+function sky_quest:ach_find_snow_biome
+function sky_quest:ach_make_snow_golem
+function sky_quest:ach_make_snow_farm

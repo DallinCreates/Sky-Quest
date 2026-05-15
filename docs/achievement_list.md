@@ -38,10 +38,10 @@ Status Key:
 26. Build a Carrot Farm [X]
 27. Make a Grassy Area [X]
 28. Expand Grassy Area to Allow animals to spawn [X]
-29. Expand your Island [ ]
-30. Find a Snow biome [ ]
-31. Make a Snow Golem [ ]
-32. Make a Snow Farm [ ]
+29. Expand your Island [X]
+30. Find a Snow biome [X]
+31. Make a Snow Golem [X]
+32. Make a Snow Farm [X]
 
 **Group 2: Advanced Building & Utility**
 
